@@ -1,0 +1,7 @@
+# System & temporary files
+.DS_Store
+Thumbs.db
+*.tmp
+__pycache__/
+*.pyc
+node_modules/
